@@ -1,0 +1,8 @@
+Flask
+SQLAlchemy
+graphene_sqlalchemy
+Flask-GraphQL
+pylint
+sqlacodegen
+psycopg2-binary
+psycopg2
